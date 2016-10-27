@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'webdeb:app-loader',
+  name: 'ezing:app-loader',
   version: '0.0.1',
   // Brief, one-line summary of the package.
   summary: 'Show a loading spinner while application code is downloading.',
