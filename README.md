@@ -2,7 +2,7 @@
 
 ## Install
 
-`meteor add webdeb:app-loader`
+`meteor add ezing:app-loader`
 
 ## How it works
 
